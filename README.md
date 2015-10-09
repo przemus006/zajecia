@@ -1,0 +1,2 @@
+# zajecia
+zajecia  - aplikacje bazodanowe
